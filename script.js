@@ -1,3 +1,10 @@
+var app = angular.module('pswdgen', []);
+
+    app.controller('generate', function ($scope){
+        $scope.num = Math.floor((Math.random() * 99) + 1);
+        $scope.passphrase = "Passphrase Generator ";
+    });
+
 document.getElementById("next").addEventListener("click", personCompany);
 document.getElementById("answer").addEventListener("keyup", function (event){
     if (event.key === 'Enter') {

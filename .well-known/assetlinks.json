@@ -1,5 +1,5 @@
 [{
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target" : { "namespace": "android_app", "package_name": "xyz.nymbus.beta_m.twa",
-                   "sha256_cert_fingerprints": ["86:D8:EC:AD:28:7C:41:9D:87:72:2D:82:C9:CB:92:48:27:72:FA:72:A6:AE:96:DC:3A:36:E0:65:21:71:60:40"] }
+                   "sha256_cert_fingerprints": ["49:ED:90:8E:97:0C:35:A6:45:15:B0:24:9B:75:CD:8E:D1:4A:8B:76:D7:15:46:04:EB:32:89:B4:8E:C3:A9:9D"] }
     }]
